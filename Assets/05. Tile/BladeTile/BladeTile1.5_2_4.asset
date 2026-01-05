@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df9d0b28da35c4849aee9917d0ab6d1e, type: 3}
+  m_Name: BladeTile1.5_2_4
+  m_EditorClassIdentifier: 
+  m_Sprite: {fileID: -4652217282901912999, guid: 9d05a8db05bc2cc4d900f0153bd4cf70, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Transform:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+  m_InstancedGameObject: {fileID: 0}
+  m_Flags: 1
+  m_ColliderType: 1
+  bladePrefab: {fileID: 8814514262076481895, guid: 1b8f30418415fd148941fcbcca7231b0, type: 3}
+  bladeBehaviour: {fileID: 0}
+  startOpen: 0
+  curTime: 1.5
+  openDuration: 2
+  closeDuration: 4
+  rotateSpeed: 300
